@@ -1,9 +1,12 @@
 - 👋 Hi, I’m @revanthk58
+- 
 - 👀 I’m interested in  Exploring Something new..
+- 
 - 🌱 I’m currently learning Full-stack Devolopment
 - 💞️ I’m looking to good chances
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 
+- 📫 How to reach me ... kannarevanthkumar@gmail.com
+- 😄 Pronouns: ...B@Nnu, Bunny
 - ⚡ Fun fact: ...
 
 <!---
