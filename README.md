@@ -2,8 +2,8 @@
 - 
 - 👀 I’m interested in  Exploring Something new..
 - 
-- 🌱 I’m currently learning Full-stack Devolopment
-- 💞️ I’m looking to good chances
+- 🌱 I’m currently learning Full-stack Devolopment 
+- 💞️ I’m looking to good opportunities, iam good at python, Java, Javascript,Nodejs,Fontend devolopment
 - 
 - 📫 How to reach me ... kannarevanthkumar@gmail.com
 - 😄 Pronouns: ...B@Nnu, Bunny
